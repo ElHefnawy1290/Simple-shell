@@ -18,6 +18,9 @@ A C-based command-line shell supporting basic Unix operations including piping, 
   - Dynamic prompt with user/host/cwd info
   - Clean screen initialization
   - Built-in `exit` command
+ 
+## installation
+- you need linux or unix-like system to run this code
  ## Usage Examples
  ```
  # Basic command
